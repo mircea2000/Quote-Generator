@@ -105,7 +105,7 @@ button:active {
     margin: 0 5px;
     background: -webkit-linear-gradient(
         110.2deg,
-        rgba(111, 71, 133, 1) 3.6%,
+        #6f4785 3.6%,
         rgba(232, 129, 166, 1) 50.3%,
         rgba(237, 237, 183, 1) 97.4%
     );
