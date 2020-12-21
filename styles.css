@@ -52,6 +52,8 @@ h1 {
     display: block;
     text-align: center;
     margin: 0 auto 25px;
+    box-shadow: 0 0 30px 15px rgb(0 0 0 / 50%);
+    border-radius: 50%;
 }
 .q_text {
     font-size: 1.25rem;
