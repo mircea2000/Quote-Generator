@@ -42,14 +42,16 @@ h1 {
     box-shadow: 0 0 30px 15px rgb(0 0 0 / 50%);
     border-bottom: 5px solid #6a318a;
 }
-.q_container .logo {
-    position: absolute;
-    width: 60px;
-    height: 60px;
-    background-image: url("./images/icons-192.png");
+.logo {
+    width: 50px;
+    height: 50px;
+    background-image: url(./images/icons-192.png);
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: cover;
+    display: block;
+    text-align: center;
+    margin: 0 auto 25px;
 }
 .q_text {
     font-size: 1.25rem;
